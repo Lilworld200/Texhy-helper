@@ -1,0 +1,33 @@
+:root {
+	/** Dark theme primary colors */
+	--clr-primary-a0: #00b128;
+	--clr-primary-a10: #41ba44;
+	--clr-primary-a20: #60c35c;
+	--clr-primary-a30: #7acc74;
+	--clr-primary-a40: #92d58b;
+	--clr-primary-a50: #a9dea2;
+
+	/** Dark theme surface colors */
+	--clr-surface-a0: #121212;
+	--clr-surface-a10: #282828;
+	--clr-surface-a20: #3f3f3f;
+	--clr-surface-a30: #575757;
+	--clr-surface-a40: #717171;
+	--clr-surface-a50: #8b8b8b;
+
+	/** Dark theme tonal surface colors */
+	--clr-surface-tonal-a0: #182016;
+	--clr-surface-tonal-a10: #2d352b;
+	--clr-surface-tonal-a20: #444b42;
+	--clr-surface-tonal-a30: #5c625a;
+	--clr-surface-tonal-a40: #757a73;
+	--clr-surface-tonal-a50: #8f938d;
+	/** white range if colors */
+	--clr-white-a50: rgb(255, 244, 229);
+	/** font family*/
+	--ff-primary: "Courier New", "Lucida Console", Monaco, Consolas, monospace;
+
+	--alpha-tranparent-a50: 0.9;
+}
+
+
